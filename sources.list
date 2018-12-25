@@ -1,0 +1,12 @@
+# deb cdrom:[Pop_OS 18.04 _Bionic Beaver_ - Release amd64 (20181205)]/ bionic main restricted
+deb http://us.archive.ubuntu.com/ubuntu/ bionic main restricted universe multiverse
+deb-src http://us.archive.ubuntu.com/ubuntu/ bionic main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ bionic-security main restricted universe multiverse
+deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-security main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://apt.pop-os.org/proprietary bionic main
+# deb-src http://apt.pop-os.org/proprietary bionic main
+
